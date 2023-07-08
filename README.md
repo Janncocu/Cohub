@@ -1,1 +1,1 @@
-[1.txt](https://github.com/Janncocu/Cohub/files/11987264/1.txt)
+loadstring(game:HttpGet('https://github.com/Janncocu/Cohub/files/11990889/1.2.txt'))()
